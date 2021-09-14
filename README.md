@@ -2,7 +2,7 @@
 
 > Estudante de Engenharia de Computação, atualmente estagiando em Brasil Enertech.
 
-🏗️ Projeto em adamento: Site pessoal [link (reinaldoassis.com)] www.reinaldoassis.com
+🏗️ Projeto em adamento: Site pessoal [(reinaldoassis.com)](www.reinaldoassis.com)
 
 💬 Contato
 <p align="left">
