@@ -2,11 +2,11 @@
 
 > Estudante de Engenharia de Computação, atualmente estagiando em Brasil Enertech.
 
-🔭 Projeto em adamento: Site pessoal (reinaldoassis.com)
+🏗️ Projeto em adamento: Site pessoal (reinaldoassis.com)
 
 💬 Contato
 <code><div style="flex">
-  <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="c"/> @reinaldo_o_rei
+  <img height="16" style="top: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="c"/> @reinaldo_o_rei
   </div></code>
 
 ----
