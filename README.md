@@ -1,10 +1,10 @@
-## ☕ Olá, meu nome é <strong>Rei!</strong>
+## ☕ Hey there, my name is <strong>Rei!</strong>
 
-> Estudante de Engenharia de Computação, atualmente estagiando em Brasil Enertech.
+> Computer Engineering student.
 
-🏗️ Projeto em adamento: Site pessoal [(reinaldoassis.com)](https://www.reinaldoassis.com)
+🏗️ Current Project: Personal website [(reinaldoassis.com)](https://www.reinaldoassis.com)
 
-💬 Contato
+💬 Contact me
 <p align="left">
   <a href="mailto:dev@reinaldoassis.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
@@ -21,7 +21,7 @@
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" alt="csharp"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -35,5 +35,5 @@
 
 ---
 
-## ⭐ Meu GitHub
+## ⭐ GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinaldoassis&show_icons=true)
