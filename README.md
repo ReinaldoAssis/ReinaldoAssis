@@ -2,7 +2,7 @@
 
 > Computer Engineering student.
 
-🏗️ Current Project: Personal website [(reinaldoassis.tk)](https://www.reinaldoassis.tk)
+🏗️ Current Project: Personal website [(reinaldoassis.com)](https://www.reinaldoassis.com)
 
 💬 Contact me
 <p align="left">
